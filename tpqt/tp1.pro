@@ -5,7 +5,7 @@
 #-------------------------------------------------
 
 QT       += core gui
-QT += printsupport
+QT       += printsupport
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 TARGET = tp1
