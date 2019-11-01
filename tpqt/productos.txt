@@ -1,0 +1,32 @@
+1
+12345
+pate
+pate
+29
+20
+C:/Users/vane_/Desktop/tpqt/imagenes/PATE-500x500.jpg
+*
+3
+123
+alfajor
+alfaj
+120
+45
+C:/Users/vane_/Desktop/tpqt/imagenes/2181009_f.jpg
+*
+4
+13579
+sansun galasi
+sansun
+8
+15
+C:/Users/vane_/Desktop/tpqt/imagenes/download.jpg
+*
+10
+999
+pan de queso
+chipa
+400
+30
+C:/Users/vane_/Desktop/tpqt/imagenes/91_receta.jpg
+*

@@ -1,0 +1,18 @@
+Caja actual:
+Fecha:
+31/10/2019
+Hora: 11:20
+Cajero: renzo
+12345
+pate x 2  40
+12345
+pate x 1  -20
+13579
+sansun x 1  15
+555
+chipa x 23  148419
+555
+chipa x 23  -148419
+TOTAL:     35 $
+Muchas gracias por su compra!
+Ticket no valido como factura
